@@ -1,6 +1,8 @@
 # Case Consultor PDI em Inteligência Artificial
 - - - 
-Desenvolvido por: **Leonardo Goshi Sanches**
+Desenvolvido por: **Leonardo Goshi Sanches** 
+Email: leosanches@uel.br / leonardosanches@protonmail.com
+Data: 20/10/21
 - - -
 
 ## Descrição dos arquivos
