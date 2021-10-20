@@ -27,7 +27,7 @@ O dataset utilizado neste projeto é distribuído pelo próprio **sklearn**, iss
 
 ## 2. data_exploration.ipynb
 
-Este notebook tem como objetivo realizar a análise do dataset **Iris**. Primeiramente, faço a análise de outliers e verifico que não há nenhum dado que necessita de correção. Seguindo assim, também procuro as correlações entre as variáveis e para isso realizo algumas plotagens que indicam as características de interesse. Como reforço na busca de correlações, é feito o mapa de calor dos valores.
+Este notebook tem como objetivo realizar a análise do dataset **Iris**. Primeiramente, faço a análise de outliers e verifico que não há nenhum dado que necessita de correção. Seguindo assim, também procuro as correlações entre as variáveis e realizo algumas plotagens que indicam as características de interesse. Como reforço na busca de correlações, é feito o mapa de calor dos valores.
 
 Seguindo na linha de análise exploratória, faço a busca de estruturas multi-dimencionais no dataset utilizando a técnica das **Curvas de Andrews**. Em um cenário onde o dataset é **não-supervisionado**, esta técnica poderia acusar quantas classes existem.
 
