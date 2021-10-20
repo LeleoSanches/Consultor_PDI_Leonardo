@@ -47,5 +47,5 @@ Por fim, o resultado das classificações foram excelentes, sendo o **SVM** uma 
 
 Com objetivo de tornar esta análise mais palpável, foi realizado o upload do projeto no **Binder**.
 
-**O Link do projeto**: (Iris)[https://mybinder.org/v2/gh/LeleoSanches/Consultor_PDI_Leonardo/HEAD]
+**O Link do projeto**: [Iris_leo](https://mybinder.org/v2/gh/LeleoSanches/Consultor_PDI_Leonardo/HEAD)
 
