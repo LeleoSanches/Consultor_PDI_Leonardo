@@ -53,3 +53,8 @@ Com objetivo de tornar esta análise mais palpável, foi realizado o upload do p
 
 **O Link do projeto**: [Iris_leo](https://mybinder.org/v2/gh/LeleoSanches/Consultor_PDI_Leonardo/HEAD)
 
+- - -
+# Vídeo Explicativo
+
+Para melhor entendimento do repositório, o link do vídeo encontra-se disponível em: [Case_PDI_Iris](https://drive.google.com/file/d/1GcD79cH1f7FA2_3yeGcD8WkBFL4Ne9ir/view?usp=sharing)
+
