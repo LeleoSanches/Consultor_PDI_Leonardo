@@ -41,7 +41,7 @@ Após a análise exploratória, é valido a construção de modelos de Machine L
 
 Para utilização do modelo Gaussiano, é necessário que os dados tenham uma distribuição do tipo **Normal**. Para isso, faço o cálculo estatístico **Teste de Shapiro** que nos diz se determinado conjunto de dados tem distribuição Gaussiana.
 
-Como métrica dos modelos, faço a escolha de utilizar a **Acurácia** e a **Matriz de Confusão**, pois ambas revelam o quão o modelo se ajustou aos dados. Os modelos escolhidos tiveram boa performace em relação ao problema, ambos tiveram resultados iguais na classificação. 
+Como métrica dos modelos, faço a escolha de utilizar a **Acurácia** e a **Matriz de Confusão**, pois ambas revelam o quanto o modelo se ajustou aos dados. As técnicas escolhidas tiveram boa performace em relação ao problema e ambos resultados foram iguais na classificação. 
 
 Por fim, o resultado das classificações foram excelentes, sendo o **SVM** uma técnica interessante para casos de classificação onde a amostragem pode ter dependência não-linear e o **GaussianNB** que se ajusta muito bem em problemas da vida real.
 
