@@ -23,7 +23,7 @@ A amostragem IRIS é um exemplo clássico em ciência de dados. Sendo um dataset
 
 ## 1. dataset.ipynb
 
-O dataset utilizado neste projeto é distribuído pelo próprio **sklearn**, isso facilita a manipulação dos arquivos. Também faço uma breve descrição do problema e demonstro como estão formatado os dados. Por fim, este notebook serve como referência na obtenção do dataset, então os jupyters a seguir utilizam ele para manipular os dataframes.
+O dataset utilizado neste projeto é distribuído pelo próprio **sklearn**, isso facilita a manipulação dos arquivos. Também faço uma breve descrição do problema e demonstro como estão formatados os dados. Por fim, este notebook serve como referência na obtenção do dataset, então os jupyters a seguir utilizam este para manipulação dos dataframes.
 
 ## 2. data_exploration.ipynb
 
