@@ -33,7 +33,7 @@ Seguindo na linha de análise exploratória, faço a busca de estruturas multi-d
 
 Para **Análise de Importância das Variáveis** utilizo 3 técnicas principais: **Chi-square**, **Análise de Variância** e **Análise de informação Mutual**. O Resultado concorda com a literatura, demonstrando uma forte correlação entre as **Pétalas** e uma correlação média no **Comprimento da Sépala**.
 
-Por fim, realizo a **Análise de componentes principais** (**PCA**), também uma técnica **não-supervisionada**, mas que trás ótimos resultados na diminuição de dimensionalidade do problema. Uma vez confirmada a existềncia de correlações entre as variáveis, é válido a utilização desta técnica, pois ela reduz o tamanho do dataset calculando os autovetores. 
+Por fim, realizo a **Análise de componentes principais** (**PCA**), também uma técnica **não-supervisionada**, mas que trás ótimos resultados na diminuição de dimensionalidade do problema. Uma vez confirmada a existềncia de correlações entre as variáveis, é válido a utilização desta técnica, pois ela reduz o tamanho do dataset calculando os autovetores resultantes. 
 
 ## 3. model.ipynb
 
